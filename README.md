@@ -13,7 +13,7 @@ Features
 Installation
 Clone the Repository or Download the Script
 To get the Google Dorking Tool, you can clone the repository or download the Python script:
-git clone https://github.com/yourusername/google-dorking-tool.git
+git clone https://github.com/bbarish19/google-dorking-tool.git
 Or simply download the Google-Dork-Tool.py
 Ensure Python is Installed
 This tool requires Python 3.6 or higher. Check if Python is installed:
